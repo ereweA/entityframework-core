@@ -1,7 +1,6 @@
 D:\Github\entityframework-core\OrderFramework\OrderFramework\bin\Debug\net10.0\OrderFramework.exe
 D:\Github\entityframework-core\OrderFramework\OrderFramework\bin\Debug\net10.0\OrderFramework.deps.json
 D:\Github\entityframework-core\OrderFramework\OrderFramework\bin\Debug\net10.0\OrderFramework.runtimeconfig.json
-D:\Github\entityframework-core\OrderFramework\OrderFramework\bin\Debug\net10.0\OrderFramework.runtimeconfig.dev.json
 D:\Github\entityframework-core\OrderFramework\OrderFramework\bin\Debug\net10.0\OrderFramework.dll
 D:\Github\entityframework-core\OrderFramework\OrderFramework\bin\Debug\net10.0\OrderFramework.pdb
 D:\Github\entityframework-core\OrderFramework\OrderFramework\bin\Debug\net10.0\Azure.Core.dll
